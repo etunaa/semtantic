@@ -1,0 +1,52 @@
+body {
+    background-color: lightsteelblue;
+}
+
+header {
+    
+    display: flex;
+    justify-content: center;
+}
+nav {
+    height: 200px ;
+    width: 500px;
+}
+ul {
+    
+    display:flex;
+    list-style:none;
+
+}
+
+.banner {
+   font-style:italic;
+}
+    
+
+
+
+
+.aside1 {
+    float:left; width:700px;
+}
+.aside2{
+    float:right; width:700px;
+    }
+
+address {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content:center;
+}
+
+    
+
+
+    
+
+    
+
