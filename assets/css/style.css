@@ -27,10 +27,10 @@ ul {
 
 
 .aside1 {
-    float:left; width:700px;
+    float:left; width:50%;
 }
 .aside2{
-    float:right; width:700px;
+    float:right; width:50%;
     }
 
 address {
